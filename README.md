@@ -1,11 +1,3 @@
-# Grocery Sales Prediction
-https://grocergeniusaibasedsupermarketsalesprediction.streamlit.app/
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-brightgreen)](https://streamlit.io/)
-
----
 
 ## Table of Contents
 
@@ -19,15 +11,13 @@ https://grocergeniusaibasedsupermarketsalesprediction.streamlit.app/
   - [Prerequisites](#prerequisites)
   - [Setup Instructions](#setup-instructions)
   - [Using the Application](#using-the-application)
-- [Contributors](#contributors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ---
 
 ## Introduction
 
-Welcome to the **Grocery Sales Prediction** project! 
+
 
 In today's competitive retail landscape, accurate sales forecasting is crucial for inventory management, resource allocation, and strategic planning. This project leverages machine learning to predict the sales of grocery items across various outlets, enabling businesses to make data-driven decisions and optimize their operations.
 
@@ -258,53 +248,7 @@ Ensure you have the following installed:
 
    - The predicted sales figure will be displayed on the screen.
 
-**Sample Screenshot of the Application:**
 
-*Include a screenshot of the Streamlit app interface here.*
-
----
-
-## Contributors
-
-We extend our heartfelt gratitude to everyone who contributed to this project:
-
-- **Mentor**: **Amal Salilan** ([amalsalilan](https://github.com/amalsalilan))
-- **Aman** ([theamansyed](https://github.com/theamansyed))
-- **Vrushika K Panchal** ([vrushika-k-panchal](https://github.com/vrushika-k-panchal))
-- **Chetan** ([Chetanp717](https://github.com/Chetanp717))
-- **Rimi** ([rs2103](https://github.com/rs2103))
-- **Shilpa Manaji** ([Shilpa-Manaji](https://github.com/Shilpa-Manaji))
-- **Tharun** ([Kottetharun-09](https://github.com/Kottetharun-09))
-- **Sumithra** ([Sumithra-git](https://github.com/Sumithra-git))
-- **Yanvi Arora** ([YanviAroraCS](https://github.com/YanviAroraCS))
-- **Sayantan** ([SayanRony](https://github.com/SayanRony))
-- **Muskan Asthana** ([muskan42](https://github.com/muskan42))
-- **Purnima Pattnaik** ([Purnima07-sudo](https://github.com/Purnima07-sudo))
-- **Rameswar Bisoyi** ([RB137](https://github.com/RB137))
-- **Raunit** ([raunit45](https://github.com/raunit45))
-- **Hima Mankanta** ([manu-vasamsetti](https://github.com/manu-vasamsetti))
-- **Nuka Abhinay** ([NUKA-ABHINAY](https://github.com/NUKA-ABHINAY))
-- **Anjan Kumar** ([Anjankumarkamalapur](https://github.com/Anjankumarkamalapur))
-
-*Your contributions have been invaluable. Thank you for your dedication and hard work!* 🙌
-
----
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-<!-- **Special Thanks**: To our mentor **Amal Salilan** for his guidance and support.-->
-- **Open-Source Community**: For providing tools and resources that made this project possible.
-- **You**: For taking the time to explore our project.
-
----
-
-*Feel free to reach out for any queries or collaboration opportunities.*
 
 **Contact**: [your-email@example.com](mailto:your-email@example.com)
 
