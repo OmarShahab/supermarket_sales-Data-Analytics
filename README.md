@@ -248,10 +248,3 @@ Ensure you have the following installed:
 
    - The predicted sales figure will be displayed on the screen.
 
-
-
-**Contact**: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-*Made with ❤️ by the Grocery Sales Prediction Team.*
